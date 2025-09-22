@@ -1,1 +1,4 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/aKWLU3-A)
+izzyschlegel, julholl, MikeF-Lab 
+Assigned technology: Bulk RNA-sequencing is a method of transcriptome analysis. Bulk refers to this method sequencing multiple cells or tissue types, typically one type of RNA is analyzed (eg: mRNA). The experimental steps include standard sample prep (RNA extraction), library prep for desired sequencing method and target RNA, and sequencing data analysis. Some methods of analysis could include dimensionality reduction models, such as t-SNE or UMAP. Use cases for this technology include disease research, transcriptome analysis, drug development, and more.
+Sources: google AI overview (prompts include 'Bulk RNA Sequencing', 'uses for Bulk RNA sequencing', 'how is Bulk RNA Sequencing analyzed')
